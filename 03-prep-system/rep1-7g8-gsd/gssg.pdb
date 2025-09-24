@@ -1,0 +1,72 @@
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  N   GLU M   1       1.140  -5.392  -1.846  1.00  0.00      GSD  N
+ATOM      2  HT1 GLU M   1       1.149  -5.382  -0.807  1.00  0.00      GSD  H
+ATOM      3  HT2 GLU M   1       1.654  -6.219  -2.212  1.00  0.00      GSD  H
+ATOM      4  HT3 GLU M   1       0.171  -5.383  -2.223  1.00  0.00      GSD  H
+ATOM      5  CA  GLU M   1       1.723  -4.136  -2.376  1.00  0.00      GSD  C
+ATOM      6  HA  GLU M   1       2.664  -4.069  -2.045  1.00  0.00      GSD   
+ATOM      7  CB  GLU M   1       0.923  -2.891  -1.876  1.00  0.00      GSD  C
+ATOM      8  HB1 GLU M   1      -0.164  -3.103  -2.002  1.00  0.00      GSD   
+ATOM      9  HB2 GLU M   1       1.083  -2.754  -0.783  1.00  0.00      GSD   
+ATOM     10  CG  GLU M   1       1.225  -1.545  -2.589  1.00  0.00      GSD  C
+ATOM     11  HG1 GLU M   1       2.247  -1.211  -2.330  1.00  0.00      GSD   
+ATOM     12  HG2 GLU M   1       1.144  -1.651  -3.689  1.00  0.00      GSD   
+ATOM     13  CD  GLU M   1       0.323  -0.427  -2.162  1.00  0.00      GSD  C
+ATOM     14  OE1 GLU M   1      -0.292   0.247  -2.983  1.00  0.00      GSD  O
+ATOM     15  C   GLU M   1       1.707  -4.159  -3.923  1.00  0.00      GSD  C
+ATOM     16  OT1 GLU M   1       0.752  -4.747  -4.505  1.00  0.00      GSD  O
+ATOM     17  OT2 GLU M   1       2.641  -3.575  -4.527  1.00  0.00      GSD  O
+ATOM     18  N   CYS M   2       0.255  -0.196  -0.847  1.00  0.00      GSD  N
+ATOM     19  HN  CYS M   2       0.696  -0.822  -0.208  1.00  0.00      GSD  H
+ATOM     20  CA  CYS M   2      -0.338   0.989  -0.240  1.00  0.00      GSD  C
+ATOM     21  HA  CYS M   2      -1.072   1.381  -0.934  1.00  0.00      GSD   
+ATOM     22  CB  CYS M   2      -0.868   0.681   1.187  1.00  0.00      GSD   
+ATOM     23  HB1 CYS M   2      -0.547  -0.354   1.442  1.00  0.00      GSD   
+ATOM     24  HB2 CYS M   2      -0.371   1.347   1.926  1.00  0.00      GSD   
+ATOM     25  SG  CYS M   2      -2.676   0.780   1.307  1.00  0.00      GSD   
+ATOM     26  C   CYS M   2       0.747   2.043  -0.069  1.00  0.00      GSD  C
+ATOM     27  O   CYS M   2       1.150   2.719  -1.013  1.00  0.00      GSD  O
+ATOM     28  N   GLY M   3       1.181   2.233   1.189  1.00  0.00      GSD  N
+ATOM     29  HN  GLY M   3       0.984   1.525   1.863  1.00  0.00      GSD  H
+ATOM     30  CA  GLY M   3       1.148   3.552   1.800  1.00  0.00      GSD  C
+ATOM     31  HA1 GLY M   3       0.268   4.087   1.470  1.00  0.00      GSD   
+ATOM     32  HA2 GLY M   3       2.079   4.071   1.614  1.00  0.00      GSD   
+ATOM     33  C   GLY M   3       1.027   3.325   3.316  1.00  0.00      GSD  C
+ATOM     34  OT1 GLY M   3       0.930   4.329   4.076  1.00  0.00      GSD  O
+ATOM     35  OT2 GLY M   3       1.033   2.156   3.767  1.00  0.00      GSD  O
+ATOM     36  N   GLU N   4       2.334  -3.608   6.242  1.00  0.00      GSD  N
+ATOM     37  HT1 GLU N   4       1.767  -3.692   5.374  1.00  0.00      GSD  H
+ATOM     38  HT2 GLU N   4       2.183  -4.430   6.862  1.00  0.00      GSD  H
+ATOM     39  HT3 GLU N   4       3.348  -3.507   6.032  1.00  0.00      GSD  H
+ATOM     40  CA  GLU N   4       2.005  -2.349   6.952  1.00  0.00      GSD  C
+ATOM     41  HA  GLU N   4       2.702  -2.198   7.653  1.00  0.00      GSD   
+ATOM     42  CB  GLU N   4       0.606  -2.444   7.642  1.00  0.00      GSD  C
+ATOM     43  HB1 GLU N   4       0.766  -2.664   8.723  1.00  0.00      GSD   
+ATOM     44  HB2 GLU N   4       0.099  -1.454   7.605  1.00  0.00      GSD   
+ATOM     45  CG  GLU N   4      -0.368  -3.516   7.083  1.00  0.00      GSD  C
+ATOM     46  HG1 GLU N   4       0.184  -4.204   6.416  1.00  0.00      GSD   
+ATOM     47  HG2 GLU N   4      -0.832  -4.098   7.904  1.00  0.00      GSD   
+ATOM     48  CD  GLU N   4      -1.467  -2.944   6.240  1.00  0.00      GSD  C
+ATOM     49  OE1 GLU N   4      -2.488  -2.488   6.745  1.00  0.00      GSD  O
+ATOM     50  C   GLU N   4       1.995  -1.169   5.952  1.00  0.00      GSD  C
+ATOM     51  OT1 GLU N   4       1.449  -1.339   4.826  1.00  0.00      GSD  O
+ATOM     52  OT2 GLU N   4       2.522  -0.087   6.317  1.00  0.00      GSD  O
+ATOM     53  N   CYS N   5      -1.278  -2.988   4.919  1.00  0.00      GSD  N
+ATOM     54  HN  CYS N   5      -0.401  -3.285   4.550  1.00  0.00      GSD  H
+ATOM     55  CA  CYS N   5      -2.312  -2.739   3.923  1.00  0.00      GSD  C
+ATOM     56  HA  CYS N   5      -3.249  -2.604   4.450  1.00  0.00      GSD   
+ATOM     57  CB  CYS N   5      -1.903  -1.578   2.973  1.00  0.00      GSD   
+ATOM     58  HB1 CYS N   5      -0.880  -1.253   3.270  1.00  0.00      GSD   
+ATOM     59  HB2 CYS N   5      -1.814  -1.957   1.931  1.00  0.00      GSD   
+ATOM     60  SG  CYS N   5      -3.025  -0.153   3.076  1.00  0.00      GSD   
+ATOM     61  C   CYS N   5      -2.449  -3.973   3.043  1.00  0.00      GSD  C
+ATOM     62  O   CYS N   5      -2.984  -3.922   1.939  1.00  0.00      GSD  O
+ATOM     63  N   GLY N   6      -1.886  -5.098   3.516  1.00  0.00      GSD  N
+ATOM     64  HN  GLY N   6      -1.652  -5.141   4.485  1.00  0.00      GSD  H
+ATOM     65  CA  GLY N   6      -0.905  -5.833   2.735  1.00  0.00      GSD  C
+ATOM     66  HA1 GLY N   6      -0.718  -5.320   1.801  1.00  0.00      GSD   
+ATOM     67  HA2 GLY N   6      -1.214  -6.864   2.622  1.00  0.00      GSD   
+ATOM     68  C   GLY N   6       0.394  -5.815   3.556  1.00  0.00      GSD  C
+ATOM     69  OT1 GLY N   6       0.964  -4.712   3.780  1.00  0.00      GSD  O
+ATOM     70  OT2 GLY N   6       0.865  -6.896   3.982  1.00  0.00      GSD  O
+END

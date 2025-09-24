@@ -1,0 +1,7 @@
+$VINASC is the source of the automated docking that the detail is provided in https://github.com/payamkelich/docking-scan
+
+
+$VINASC -r 7g8.pdbqt -l gsd.pdbqt -b 15 -x -1 -X 3 -y -3 -Y 6 -z -12 -Z 15 --step-x 1 --step-y 1 --step-z 1 --seed 1 --vina-path /home/payam/.local/bin/vina
+$VINASC -r hb3.pdbqt -l gsd.pdbqt -b 15 -x -1 -X 3 -y -3 -Y 6 -z -12 -Z 15 --step-x 1 --step-y 1 --step-z 1 --seed 1 --vina-path /home/payam/.local/bin/vina
+$VINASC -r 7g8.pdbqt -l gsh.pdbqt -b 15 -x -1 -X 3 -y -3 -Y 6 -z -12 -Z 15 --step-x 1 --step-y 1 --step-z 1 --seed 1 --vina-path /home/payam/.local/bin/vina
+$VINASC -r hb3.pdbqt -l gsh.pdbqt -b 15 -x -1 -X 3 -y -3 -Y 6 -z -12 -Z 15 --step-x 1 --step-y 1 --step-z 1 --seed 1 --vina-path /home/payam/.local/bin/vina
