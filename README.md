@@ -41,3 +41,7 @@ This directory contains all the necessary configuration files for running the eq
 The final step is to process the analysis output and generate plots for publication.
 * `z-main-manuscript.ipynb`: Jupyter Notebook for creating the primary figures used in the main manuscript.
 * `z-plots-SI.ipynb`: Jupyter Notebook for creating supplementary information figures.
+
+Feel free to contact me with any questions at [payam.kelich68@gmail.com](mailto:payam.kelich68@gmail.com).
+
+**Disclaimer:** The parameter files and scripts are provided as examples. For actual runs, use the correct, up-to-date parameters and scripts.
